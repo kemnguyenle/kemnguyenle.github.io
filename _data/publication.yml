@@ -1,3 +1,15 @@
+
+
+- company: '<strong>VietMix: A Naturally Occurring Vietnamese-English Code-Mixed Corpus with Iterative Augmentation for Machine Translation</strong> was accepted for publication at EACL Main 2026, and non-archival at the Workshop on Multilingual Multicultural Evaluation (MME)'
+  url: "https://arxiv.org/abs/2505.24472v2"
+  # authors: ""
+  position: "Jan 2026"
+
+- company: '<strong>Rich Dad, Poor Lad: How do Large Language Models Contextualize Socioeconomic Factors in College Admission ?</strong> was accepted for publication at EMNLP Main 2025'
+  url: "https://arxiv.org/abs/2509.16400"
+  # authors: ""
+  position: "Aug 2025"
+
 - company: 'Presenting my working paper, <strong>Scaling Interactional Sociolinguistics: An LLM-Facilitated Analysis of Vietnamese Code-Mixing on Threads.net</strong>, at the CALD-AI Workshop, sponsored by ASIS&T and UCI Connected Learning Lab.'
   url: "https://cald-ai.github.io/"
   # authors: ""
