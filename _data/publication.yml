@@ -1,5 +1,10 @@
 
 
+- company: '<strong>Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring</strong> was accepted to EMNLP Main 2026'
+  url: "https://arxiv.org/pdf/2604.19984"
+  # authors: ""
+  position: "Aug 2026"
+
 - company: '<strong>VietMix: A Naturally Occurring Vietnamese-English Code-Mixed Corpus with Iterative Augmentation for Machine Translation</strong> was accepted for publication at EACL Main 2026, and non-archival at the Workshop on Multilingual Multicultural Evaluation (MME)'
   url: "https://arxiv.org/abs/2505.24472v2"
   # authors: ""
@@ -9,11 +14,6 @@
   url: "https://arxiv.org/abs/2509.16400"
   # authors: ""
   position: "Aug 2025"
-
-- company: 'Presenting my working paper, <strong>Scaling Interactional Sociolinguistics: An LLM-Facilitated Analysis of Vietnamese Code-Mixing on Threads.net</strong>, at the CALD-AI Workshop, sponsored by ASIS&T and UCI Connected Learning Lab.'
-  url: "https://cald-ai.github.io/"
-  # authors: ""
-  position: "May 2025"
 
 - company: '<strong>The News Says, the Bot Says: How Immigrants and Locals Differ in Chatbot-Facilitated News Reading</strong> was accepted for publication at CHI 2025.'
   url: "https://arxiv.org/pdf/2503.07797"
