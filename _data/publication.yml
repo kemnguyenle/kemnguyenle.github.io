@@ -20,6 +20,16 @@
   # authors: ""
   position: "Aug 2025"
 
+- company: '<strong>Effort-aware Fairness: Incorporating a Philosophy-informed, Human-centered Notion of Effort into Algorithmic Fairness Metrics</strong> was accepted for publication at AIES 2025'
+  url: "https://ojs.aaai.org/index.php/AIES/article/view/36681"
+  # authors: ""
+  position: "Jul 2025"
+
+- company: '<strong>Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools?</strong> was accepted for publication at ICAIL 2025'
+  url: "https://dl.acm.org/doi/epdf/10.1145/3769126.3769199"
+  # authors: ""
+  position: "Apr 2025"
+
 - company: '<strong>The News Says, the Bot Says: How Immigrants and Locals Differ in Chatbot-Facilitated News Reading</strong> was accepted for publication at CHI 2025.'
   url: "https://arxiv.org/pdf/2503.07797"
   # time: "2024"
