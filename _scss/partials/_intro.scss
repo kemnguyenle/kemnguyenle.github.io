@@ -143,6 +143,50 @@
       }
     }
   }
+  &__social {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 22px;
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      border: 1.5px solid #007bff;
+      color: #007bff;
+      transition: all 0.2s ease-in-out;
+      &:after {
+        display: none;
+      }
+      &:hover {
+        background: #007bff;
+        color: #fff;
+        transform: translateY(-4px);
+        box-shadow: 0 6px 14px rgba(0, 123, 255, 0.3);
+      }
+      svg {
+        width: 21px;
+        height: 21px;
+        fill: currentColor;
+      }
+    }
+    @include phablet {
+      justify-content: center;
+      gap: 14px;
+      margin-top: 18px;
+      a {
+        width: 42px;
+        height: 42px;
+        svg {
+          width: 19px;
+          height: 19px;
+        }
+      }
+    }
+  }
   &__content {
     display: flex;
     align-items: center;
