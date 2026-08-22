@@ -1,19 +1,56 @@
 .intro {
-  padding: 120px 100px;
   height: 100vh;
   display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  max-width: 1440px;
-  margin: 0 auto;
-  @include weird-medium {
-    padding: 120px 70px;
+  align-items: stretch;
+  // Horizontal padding mirrors .section so the intro lines up with it.
+  padding: 120px 170px;
+  @include thirteen {
+    padding: 120px 100px;
   }
-  @include phablet {
-    padding: 120px 50px;
+  @include desktop {
+    padding: 100px 50px;
   }
   @include mobile {
-    padding: 70px 50px;
+    padding: 70px 35px;
+  }
+
+  // The frame + rail replicate .section's centered [title | content] group,
+  // so &__body starts at the same x as the Background/News body text.
+  &__frame {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  &__rail {
+    flex-shrink: 0;
+    width: 200px;
+    margin-right: 70px;
+    @include desktop {
+      margin-right: 50px;
+    }
+    @include little-desktop {
+      width: 150px;
+    }
+    @include tablet {
+      display: none;
+    }
+  }
+  &__body {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    @include desktop {
+      max-width: 800px;
+    }
+    @include tablet {
+      max-width: 100%;
+      padding-left: 50px;
+    }
+    @include mobile {
+      padding-left: 30px;
+    }
   }
 
   &__hello, &__tagline {
