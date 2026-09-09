@@ -1,6 +1,11 @@
 
 
-- company: '<strong>Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring</strong> was accepted to EMNLP Main 2026'
+- company: '<strong>TurEngMix: A Text Corpus and Benchmark for Turkish-English Code-Mixed Language Identification and Named Entity Recognition</strong> (VietMix''s sister paper 👭) was accepted at the 11th Workshop on Natural User-generated Text (W-NUT), co-located with EMNLP 2026'
+  url: "https://arxiv.org/pdf/2609.06963"
+  # authors: ""
+  position: "Sep 2026"
+
+- company: '<strong>Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring</strong> was accepted to EMNLP Main 2026, and to the 5th Workshop on NLP for Positive Impact (NLP4PI) at EMNLP 2026'
   url: "https://arxiv.org/pdf/2604.19984"
   # authors: ""
   position: "Aug 2026"
